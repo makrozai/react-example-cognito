@@ -4,7 +4,7 @@
   "description": "aws-cognito-react primary goal is to provide user management services for a web App in a scalable serverless way.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dbroadhurst/aws-cognito-react"
+    "url": "https://github.com/makrozai/react-example-cognito"
   },
   "keywords": [
     "aws",
@@ -15,8 +15,8 @@
     "redux",
     "saga"
   ],
-  "author": "David Broadhurst",
-  "homepage": "http://cognito.dbroadhurst.net",
+  "author": "makrozai",
+  "homepage": "",
   "license": "MIT",
   "dependencies": {
     "aws-cognito-redux-saga": "^1.5.7",
