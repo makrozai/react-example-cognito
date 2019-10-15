@@ -2,6 +2,8 @@ import React from 'react'
 import PropTypes from 'prop-types'
 
 import './App.css'
+
+/**import of components */
 import Landing from './components/Landing'
 import Protected from './components/Protected'
 import SignIn from './components/SignIn'
@@ -41,7 +43,7 @@ class App extends React.Component {
                 component={ForceChangePassword}
               />
               <Route path="/landing" component={Landing} />
-
+              {/**if login on or login off */}
               <Route
                 path="/"
                 render={() =>
