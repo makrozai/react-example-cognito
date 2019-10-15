@@ -16,7 +16,6 @@
     "saga"
   ],
   "author": "makrozai",
-  "homepage": "",
   "license": "MIT",
   "dependencies": {
     "aws-cognito-redux-saga": "^1.5.7",
