@@ -1,8 +1,5 @@
 # aws-cognito-react
 
-Reference implementation / boilerplate for AWS Cognito user management
-
-![signin](https://s3-us-west-2.amazonaws.com/union25-public/aws-cognito-login.png)
 
 ## Introduction
 
