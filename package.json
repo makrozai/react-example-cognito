@@ -19,6 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "aws-cognito-redux-saga": "^1.5.7",
+    "graphql": "^14.5.8",
     "material-ui": "^0.20.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
